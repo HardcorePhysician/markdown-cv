@@ -42,16 +42,19 @@ Optical Computation; Optical communication.
 2. Z. Feng, H. Yuan, H. Zhang, Y. Zhao. On-Chip Topological Multichannel Filtering and Routing Device Based on Synthetic Dimension. IEEE Photonics J. 15, 1–5 (2023). https://doi.org/10.1109/JPHOT.2022.3220331;
 
 `2022`
+
 3. C.-C. Lu, H.-Y. Yuan, H.-Y. Zhang, W. Zhao, N.-E. Zhang, Y.-J. Zheng, S. Elshahat, Y.-C. Liu. On-chip topological nanophotonic devices. Chip 1, 100025 (2022). https://doi.org/10.1016/j.chip.2022.100025;
 
 4. S. Elshahat, M. S. M. Esmail, H. Yuan, S. Feng, C. Lu. Broadband Multiple Topological Rainbows. Annalen Der Physik 2200137 (2022). https://doi.org/10.1002/andp.202200137;
 
 `2021`
+
 5. H. Yuan, L. Ma, Z. Yuan, S. Feng, J. Li, X. Hu, C. Lu. On-chip cascaded bandpass filter and wavelength router using an intelligent algorithm. IEEE Photonics Journal 13, 1–8 (2021);
 
 6. H. Yuan, Z. Liu, M. Wei, H. Lin, X. Hu, C. Lu. Topological Nanophotonic Wavelength Router Based on Topology Optimization. Micromachines 12, 1506 (2021). https://doi.org/10.3390/mi12121506;
 
 `2020`
+
 7. C. Wang, H. Zhang, H. Yuan, J. Zhong, C. Lu. Universal numerical calculation method for the Berry curvature and Chern numbers of typical topological photonic crystals. Frontiers of Optoelectronics 13, 73–88 (2020). https://doi.org/10.1007/s12200-019-0963-9
 
 ### Patents
